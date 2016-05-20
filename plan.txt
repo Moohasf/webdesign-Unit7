@@ -1,0 +1,12 @@
+Website Tree:
+index.html
+-Person 1
+-Person 2
+-Person 3
+-Person 4
+
+Category: politics
+navbar location: left side
+title: Famous People
+
+External Javascript will be used for dropdown navigation bars and other messages and information for the user. Also, buttons may be included so I can add more functionality to the JS.
