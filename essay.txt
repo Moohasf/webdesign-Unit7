@@ -1,0 +1,3 @@
+For my final Web Design project, I will be making a web site that will elaborate on the lives of several historical figures. In my own tastes, I chose to make the background color black, as it helps me to see easier. The text color will be white, so it can easily be seen as well. The title is gold, one of my favorite colors, and it is an image that was retrieved from www.cooltext.com. The navigation bar will be on the left, so it does not take up too much space at the top and so that I can position it more easily. Any other colors on the page will be neon-like, to stand out on the black background.
+
+As I hinted above, I chose the styles and colors because, in my own experience, they are easier to see. As I have eye problems, this should be understandable.
