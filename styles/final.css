@@ -1,0 +1,47 @@
+body{
+	background-color:black;
+	color:orange;
+}
+.navbar{
+	width:20%;
+	height:90%;
+	position:absolute;
+	top:15%;
+	background-color:black;
+	color:orange;
+	text-align:left;
+}
+.content{
+	width:80%;
+	height:90%;
+	position:absolute;
+	top:15%;
+	background-color:black;
+	color:orange;
+	left:21%;
+	text-align:left;
+	font-size:15px;
+}
+.header{
+	height:10%;
+	width:100%;
+}
+a{
+	color:white;
+}
+a:hover{
+	color:#00ff00;
+}
+a:visited{
+	color:#00ff00;
+}
+.caption{
+	color:grey;
+	font-size:11px;
+	font-family:"Courier New", Courier, "Lucida Sans Typewriter", "Lucida Typewriter", monospace;
+}
+.citation{
+	color:light-blue;
+	font-size:11px;
+	font-style:italic;
+}
